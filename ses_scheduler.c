@@ -1,6 +1,6 @@
 /*
  ***************************************************************************
- ses_scheduler V1 - Copyright (C) 2018 MOSTAFA HASSAN & HAZEM ABAZA.
+ ses_scheduler V1 - Copyright (C) 2018 HAZEM ABAZA.
  ***************************************************************************
  This file is part of the SES_TUHH library.
 
